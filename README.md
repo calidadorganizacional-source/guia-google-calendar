@@ -1,5 +1,5 @@
-📅 GUÍA COMPLETA: CÓMO USAR GOOGLE CALENDAR
-🔰 1. CÓMO ENTRAR
+#📅 GUÍA COMPLETA: CÓMO USAR GOOGLE CALENDAR#
+##🔰 1. CÓMO ENTRAR##
 Abre Chrome (o cualquier navegador)
 
 En la barra de direcciones escribe: calendar.google.com
@@ -12,34 +12,34 @@ Escribe tu contraseña
 
 Clic en "Iniciar sesión"
 
-🗺️ 2. CONOCE LA PANTALLA
+##🗺️ 2. CONOCE LA PANTALLA##
 Ubicación	Qué encuentras
 Arriba a la izquierda	Botón azul "Crear" (aquí se hacen los eventos)
 Arriba al centro	Fecha actual y flechas para moverte entre días
 Izquierda	Mini calendario y lista de calendarios
 Centro	Vista del día, semana o mes
 Arriba a la derecha	Tu foto de perfil y configuración
-➕ 3. CÓMO CREAR UN EVENTO
+##➕ 3. CÓMO CREAR UN EVENTO##
 Haz clic en el botón azul "Crear" (arriba a la izquierda)
 
 Se abre una ventana con estos campos:
 
-📌 Título: escribe el nombre del evento
+**📌 Título: escribe el nombre del evento**
 
-📌 Fecha y hora: elige día, hora de inicio y hora de fin
+**📌 Fecha y hora: elige día, hora de inicio y hora de fin**
 
-📍 Ubicación (opcional)
+**📍 Ubicación (opcional)**
 
-📝 Descripción (opcional)
+**📝 Descripción (opcional)**
 
-👥 Invitados (opcional)
+**👥 Invitados (opcional)**
 
-🔔 Recordatorio: elige cuándo te avise
+**🔔 Recordatorio: elige cuándo te avise**
 
-Clic en "Guardar"
+**Clic en "Guardar"**
 
-✏️ 4. CÓMO EDITAR UN EVENTO
-Haz clic sobre el evento que quieres cambiar
+##✏️ 4. CÓMO EDITAR UN EVENTO
+Haz clic sobre el evento que quieres cambiar##
 
 Se abre una ventana con los detalles
 
